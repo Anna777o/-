@@ -1,4 +1,4 @@
-Ovdenko Anna
+Ovdenko Anna </n>
 gmail: ovdanna32@gmail.com
 Currently studying in NUST MISIS, ITCS.
 Experience in C++ and C#, SVN
